@@ -1,0 +1,8 @@
+{
+  "cloudUsed": 20,
+  "ttsUsed": 10,
+  "isExhausted": true,
+  "resetTimestamp": 1791849600000,
+  "quotaCooldownUntil": 1791849600000,
+  "ttsQuotaCooldownUntil": 1791849600000
+}

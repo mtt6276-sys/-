@@ -1,0 +1,6 @@
+{
+  "name": "Siamese Voice - โปรแกรมแปลเสียงไทยกลางเป็นไทยโบราณแบบเรียลไทม์",
+  "description": "ระบบแปลเสียงพูดสดจากภาษาไทยกลางเป็นภาษาไทยโบราณพร้อมเปล่งเสียงพูด AI ย้อนยุคแบบเรียลไทม์ เลือกระดับภาษาอยุธยา สุโขทัย ชาววัง และพจนานุกรมคำศัพท์โบราณ",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
